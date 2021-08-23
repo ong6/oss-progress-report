@@ -17,8 +17,20 @@
 
 ### Week 1 (9 Aug 2021)
 
-- PLACEHOLDER
-- PLACEHOLDER
+- Completed the PR done in week 0 by adding docs
+- Fixed the following issues
+  - https://github.com/MarkBind/markbind/issues/1581
+  - https://github.com/MarkBind/markbind/issues/1031
+  - https://github.com/MarkBind/markbind/issues/1642
+  
+### Week 2 (16 Aug 2021)
+
+- Did reaserch on Markbind commands and learnt how learna works
+- Tried to solve the issuses caused by octicon version
+
+### Week 3 (23 Aug 2021)
+
+- 
 
 ## Summary Of Achievements
 
