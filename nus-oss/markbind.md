@@ -30,15 +30,23 @@
 
 ### Week 3 (23 Aug 2021)
 
-- 
+- Updated octicon version and fixed issue with octicons not working properly
+- Fixed the following issues
+  - https://github.com/MarkBind/markbind/issues/1639
+
+### Week 4 (30 Aug 2021)
+
+- Did research to resolve the following issues
+  - https://github.com/MarkBind/markbind/issues/1619
+
+### Week 5 (6 Aug 2021)
+
+- Did research to resolve the following issues
+  - https://github.com/MarkBind/markbind/issues/1619
+
 
 ## Summary Of Achievements
 
-<!--
-## Overview:
-- [PRs authored by me](https://github.com/MarkBind/markbind/pulls/tlylt)
-- [Issues created by me](https://github.com/MarkBind/markbind/issues/created_by/tlylt)
--->
 
 ### Overview:
 
