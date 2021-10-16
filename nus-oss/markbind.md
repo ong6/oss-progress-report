@@ -17,16 +17,17 @@
 
 ### Week 1 (9 Aug 2021)
 
-- Completed the PR done in week 0 by adding docs
+- Completed the [PR](https://github.com/MarkBind/markbind/pull/1647) done in
+  week 0 by adding docs
 - Fixed the following issues
   - https://github.com/MarkBind/markbind/issues/1581
   - https://github.com/MarkBind/markbind/issues/1031
   - https://github.com/MarkBind/markbind/issues/1642
-  
+
 ### Week 2 (16 Aug 2021)
 
-- Did reaserch on Markbind commands and learnt how learna works
-- Tried to solve the issuses caused by octicon version
+- Did research on Markbind commands and learnt how Learna works
+- Tried to solve the issues caused by octicon version
 
 ### Week 3 (23 Aug 2021)
 
@@ -39,30 +40,45 @@
 - Did research to resolve the following issues
   - https://github.com/MarkBind/markbind/issues/1619
 
-### Week 5 (6 Aug 2021)
+### Week 5 (6 Sep 2021)
+
+- Nil
+
+### Week 6 (13 Sep 2021)
+
+- Worked on finalizing the [PR](https://github.com/MarkBind/markbind/pull/1652)
+  on the Octicon version and fixed the test cases related to them.
+
+### Week 7 (20 Sep 2021)
+
+- Recess Week
+
+### Week 8 (27 Sep 2021)
 
 - Did research to resolve the following issues
-  - https://github.com/MarkBind/markbind/issues/1619
+  - [Markbind deploys prematurely](https://github.com/MarkBind/markbind/issues/1667)
+  - [Deploy Link is broken](https://github.com/MarkBind/markbind/issues/1680)
 
+### Week 9 (4 Oct 2021)
+
+- Created and Merged a [PR](https://github.com/MarkBind/markbind/pull/1679)
+  fixing the following issues
+  - [Markbind deploys prematurely](https://github.com/MarkBind/markbind/issues/1667)
+  - [Deploy Link is broken](https://github.com/MarkBind/markbind/issues/1680)
+
+### Week 10 (11 Oct 2021)
+
+- Solved the following issues
+  - https://github.com/MarkBind/markbind/issues/1619
+- Raised the following issues
+  - https://github.com/MarkBind/markbind/issues/1682
+
+### Week 11 (18 Oct 2021)
 
 ## Summary Of Achievements
-
 
 ### Overview:
 
 - [PRs authored by me](https://github.com/MarkBind/markbind/pulls/ong6)
+- [PRs Merged](https://github.com/MarkBind/markbind/pulls?q=is%3Apr+author%3Aong6+is%3Amerged)
 - [Issues created by me](https://github.com/MarkBind/markbind/issues/created_by/ong6)
-
-### Breakdown:
-
-#### PRs merged
-
-- PLACEHOLDER
-
-#### PRs reviewed
-
-- PLACEHOLDER
-
-#### Issues raised
-
-- PLACEHOLDER
